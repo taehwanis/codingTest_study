@@ -24,7 +24,8 @@
 ~~인형 : https://github.com/hih5921/CodeTest/tree/master/CodingTest/src~~  
 ~~영남 : https://github.com/nuobasic/Algorithm_Study~~  
 ~~찬교 : https://github.com/moriborissal/CNFSYSTEM~~  
-~~소영 : https://github.com/souo0605A/2023CNF_AlgorithmStudy~~  
+~~소영 : https://github.com/souo0605A/2023CNF_AlgorithmStudy~~
+~~원겸 : https://github.com/kly9604~~  
 
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
