@@ -20,13 +20,13 @@
 > 혜원 : https://github.com/reeHW  
 > 승준 : https://github.com/seungjun0502/codingStudy  
 > 현정 : https://github.com/annie9434/codingTest  
-
+  
 ~~인형 : https://github.com/hih5921/CodeTest/tree/master/CodingTest/src~~  
 ~~영남 : https://github.com/nuobasic/Algorithm_Study~~  
 ~~찬교 : https://github.com/moriborissal/CNFSYSTEM~~  
 ~~소영 : https://github.com/souo0605A/2023CNF_AlgorithmStudy~~  
 ~~원겸 : https://github.com/kly9604~~  
-
+  
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
 | 2023-05-26 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ae20eb60-1a5f-4c92-8958-6033ad601889) | 2주 |
