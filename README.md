@@ -12,14 +12,14 @@
 + **스택이 2개가 쌓이면 강퇴**
 
 
-> 시현 : https://github.com/sihyun5250/sihyun5250<br/>
-> 예진 : https://github.com/yezini/programmers<br/>
-> 태환 : https://taehwanis.github.io/<br/>
-> 민재 : https://github.com/alswo1212/CNF_codingTest_sturdy<br/>
-> 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4<br/>
-> 혜원 : https://github.com/reeHW<br/>
-> 승준 : https://github.com/seungjun0502/codingStudy<br/>
-> 현정 : https://github.com/annie9434/codingTest<br/>
+> 👑민재 : https://github.com/alswo1212/CNF_codingTest_sturdy  
+> 시현 : https://github.com/sihyun5250/sihyun5250  
+> 예진 : https://github.com/yezini/programmers  
+> 태환 : https://taehwanis.github.io/  
+> 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4  
+> 혜원 : https://github.com/reeHW  
+> 승준 : https://github.com/seungjun0502/codingStudy  
+> 현정 : https://github.com/annie9434/codingTest  
 
 ~~인형 : https://github.com/hih5921/CodeTest/tree/master/CodingTest/src~~  
 ~~영남 : https://github.com/nuobasic/Algorithm_Study~~  
