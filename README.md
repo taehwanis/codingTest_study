@@ -18,7 +18,7 @@
 > 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4  
 > 혜원 : https://github.com/reeHW  
 > 승준 : https://github.com/seungjun0502/codingStudy  
-> 현정 : https://github.com/annie9434/codingTest  
+> 현정 : https://github.com/annie9434/CNFCodingTest  
   
 ~~인형 : https://github.com/hih5921/CodeTest/tree/master/CodingTest/src~~  
 ~~영남 : https://github.com/nuobasic/Algorithm_Study~~  
