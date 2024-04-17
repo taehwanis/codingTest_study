@@ -12,7 +12,6 @@
 
 
 > 👑민재 : https://github.com/alswo1212/CNF_codingTest_sturdy  
-> 시현 : https://github.com/sihyun5250/sihyun5250  
 > 예진 : https://github.com/yezini/programmers  
 > 태환 : https://taehwanis.github.io/  
 > 우형 : https://github.com/woohyung0511/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4  
@@ -25,6 +24,7 @@
 ~~찬교 : https://github.com/moriborissal/CNFSYSTEM~~  
 ~~소영 : https://github.com/souo0605A/2023CNF_AlgorithmStudy~~  
 ~~원겸 : https://github.com/kly9604~~  
+~~시현 : https://github.com/sihyun5250/sihyun5250~~  
   
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
@@ -51,3 +51,4 @@
 | 2023-03-07 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ed626c13-5f43-4232-9315-a4f80040d041) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/216293df-18c4-4b9d-bcdd-d73c73aa22d5) |  |
 | 2024-03-21 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/e6ec5000-a379-49a6-ad3d-83de37db2985) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/99b1d3df-034a-40e9-ba72-ed35537a84d3) |  |
 | 2024-04-04 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/9632ac99-5601-4ac6-9a41-f58cf3b38937) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/93bfb770-ed75-4069-a22c-0eb709702308) |  |
+| 2024-04-17 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/b6265c10-c613-4133-a34c-f091edf1ecb5) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/0b3c201d-5a1a-4f5b-a339-2333f24547f0) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/fa93efd8-4fd1-4b21-a972-66d4f0062bbf) |  |
