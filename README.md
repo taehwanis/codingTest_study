@@ -58,5 +58,4 @@
 | 2024-05-30 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/81248977-697a-4373-80b3-33a6a2e5a9a0) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/9461e8ef-b676-426b-8254-921170ffa21a) |  |
 | 2024-06-13 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/d9fe1de7-7b4e-4973-baf3-a43ab1c1509f) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/185857de-3e09-4009-b6f9-0555ab143c3a) | <del>혜원</del> |
 | 2024-06-26 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/a1776dbf-512c-4c48-820e-d47cf677720a) <br> (스텍까기문제)![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5c275c25-2b1d-49bb-b2d0-71ebdd8158e0) |  |
-| 2024-07-18 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ec90810c-3b19-4688-b88a-fd335fae2cc7) <br> ![image](https://github.com/taehwanis/codingTest_study/assets/82363795/ce9bcb30-a2b7-4e8e-af02-13bbd47d3d75)
-|  |
+| 2024-07-18 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ec90810c-3b19-4688-b88a-fd335fae2cc7) <br> ![image](https://github.com/taehwanis/codingTest_study/assets/82363795/ada38151-8c88-4648-8814-e62d696bf601) |  |
