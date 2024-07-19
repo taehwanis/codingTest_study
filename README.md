@@ -33,7 +33,6 @@
   
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
-
 | 2024-07-31 | [![image](https://github.com/user-attachments/assets/64a57cd0-2dc8-4b51-8784-119dbf9bc127)](https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [![image](https://github.com/user-attachments/assets/d138e36e-6ab4-4c06-8111-22e47c9f6d82)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |  |
 | 2024-07-18 | [![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ec90810c-3b19-4688-b88a-fd335fae2cc7)](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <br> [![image](https://github.com/taehwanis/codingTest_study/assets/82363795/ada38151-8c88-4648-8814-e62d696bf601)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) |  |
 | 2024-06-26 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/a1776dbf-512c-4c48-820e-d47cf677720a) <br> (스텍까기문제)![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5c275c25-2b1d-49bb-b2d0-71ebdd8158e0) |  |
