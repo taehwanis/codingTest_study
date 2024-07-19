@@ -1,13 +1,16 @@
 ## 진행방식
 + 각자 문제를 풀어서 풀이를 각자 깃허브에 올려 공유
-+ 리뷰는 격주 목요일에 하나 유동적으로 변경 가능
++ 리뷰는 격주 수요일에 하나 유동적으로 변경 가능
 + 각자 풀이를 설명한 후 코드를 보면서 코멘트를 하는 형식
++ 특정 알고리즘을 공부하고 싶으면 백준으로 진행 예정
 ## 규칙
 + 문제를 풀지 못하더라도 작성한 코드를 올린다.
 + 불참은 안됨(사정이 있으면 미리 사정을 말하고 불참).
 + 위의 2가지를 지키지 않을시 각각 스택이 쌓임.(문제는 1문제당 1스택)<br>
 + 불참 사유가 거짓일 경우 스택 2
-+ 문제 풀이는 리뷰날 00:00 까지 올리기(그렇지 않으면 안 올린 것으로 간주)
++ 문제 풀이는 리뷰(수요일) 기준 전전날인 월요일 00:00 까지 올리기(그렇지 않으면 안 올린 것으로 간주)
++ 다른 사람의 풀이를 보고 피드백 or 질문사항 정리해서 오기 (질문 한개당 1스택)
++ 공유할 학습자료나 자료구조, 알고리즘, 디자인 패턴 등이 있으면 링크도 문제 하단에 같이 걸어두기
 + **스택이 2개가 쌓이면 강퇴**
 
 
@@ -31,9 +34,7 @@
 | 날짜 | 문제 | 참여 조 |
 | :---: | :---: | :---: |
 
-| 2024-07-31 | [![image](https://github.com/user-attachments/assets/64a57cd0-2dc8-4b51-8784-119dbf9bc127)]
-(https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [![image](https://github.com/user-attachments/assets/d138e36e-6ab4-4c06-8111-22e47c9f6d82)]
-(https://school.programmers.co.kr/learn/courses/30/lessons/155651) |  |
+| 2024-07-31 | [![image](https://github.com/user-attachments/assets/64a57cd0-2dc8-4b51-8784-119dbf9bc127)](https://school.programmers.co.kr/learn/courses/30/lessons/176962) <br> [![image](https://github.com/user-attachments/assets/d138e36e-6ab4-4c06-8111-22e47c9f6d82)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |  |
 | 2024-07-18 | [![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/ec90810c-3b19-4688-b88a-fd335fae2cc7)](https://school.programmers.co.kr/learn/courses/30/lessons/87377) <br> [![image](https://github.com/taehwanis/codingTest_study/assets/82363795/ada38151-8c88-4648-8814-e62d696bf601)](https://school.programmers.co.kr/learn/courses/30/lessons/138476) |  |
 | 2024-06-26 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/a1776dbf-512c-4c48-820e-d47cf677720a) <br> (스텍까기문제)![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/5c275c25-2b1d-49bb-b2d0-71ebdd8158e0) |  |
 | 2024-06-13 | ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/d9fe1de7-7b4e-4973-baf3-a43ab1c1509f) <br> ![image](https://github.com/alswo1212/CNF_codingTest_sturdy/assets/92290312/185857de-3e09-4009-b6f9-0555ab143c3a) | <del>혜원</del> |
